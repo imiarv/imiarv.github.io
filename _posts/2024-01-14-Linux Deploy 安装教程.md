@@ -1,6 +1,12 @@
 ---
 title: "Linux Deploy 安装教程"
+layout: post
 date: 2024-01-14
+post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+description: 从零开始安装 Linux Deploy
+tags:
+- Linux Deploy
+- Android
 ---
 # Linux Deploy 安装教程
 
