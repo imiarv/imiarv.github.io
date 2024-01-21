@@ -2,7 +2,7 @@
 title: "Linux Deploy 安装教程"
 layout: post
 date: 2024-01-14
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://raw.githubusercontent.com/imiarv/imiarv.github.io/website-update/assets/images/Linux%20Deploy%20%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.jpg?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
 description: 从零开始安装 Linux Deploy
 tags:
 - Linux Deploy
